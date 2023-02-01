@@ -27,7 +27,6 @@ body {
     background-color: var(--clr-pale-blue);
     background-image: url(images/pattern-background-desktop.svg);
     background-repeat: no-repeat;
-    background-size: cover;
     min-height: 100vh;
     display: grid;
     align-content: center;
